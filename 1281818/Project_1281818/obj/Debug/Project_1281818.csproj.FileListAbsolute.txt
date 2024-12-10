@@ -1,0 +1,14 @@
+D:\R59\M3\Projects\md.omar-1281818\RepositoryFactoryAndMethodPattern\Project_1281818\bin\Debug\Project_1281818.exe.config
+D:\R59\M3\Projects\md.omar-1281818\RepositoryFactoryAndMethodPattern\Project_1281818\bin\Debug\Project_1281818.exe
+D:\R59\M3\Projects\md.omar-1281818\RepositoryFactoryAndMethodPattern\Project_1281818\bin\Debug\Project_1281818.pdb
+D:\R59\M3\Projects\md.omar-1281818\RepositoryFactoryAndMethodPattern\Project_1281818\obj\Debug\Project_1281818.csproj.AssemblyReference.cache
+D:\R59\M3\Projects\md.omar-1281818\RepositoryFactoryAndMethodPattern\Project_1281818\obj\Debug\Project_1281818.csproj.CoreCompileInputs.cache
+D:\R59\M3\Projects\md.omar-1281818\RepositoryFactoryAndMethodPattern\Project_1281818\obj\Debug\Project_1281818.exe
+D:\R59\M3\Projects\md.omar-1281818\RepositoryFactoryAndMethodPattern\Project_1281818\obj\Debug\Project_1281818.pdb
+D:\C#\C# projects\1281818\Project_1281818\bin\Debug\Project_1281818.exe.config
+D:\C#\C# projects\1281818\Project_1281818\bin\Debug\Project_1281818.exe
+D:\C#\C# projects\1281818\Project_1281818\bin\Debug\Project_1281818.pdb
+D:\C#\C# projects\1281818\Project_1281818\obj\Debug\Project_1281818.csproj.AssemblyReference.cache
+D:\C#\C# projects\1281818\Project_1281818\obj\Debug\Project_1281818.csproj.CoreCompileInputs.cache
+D:\C#\C# projects\1281818\Project_1281818\obj\Debug\Project_1281818.exe
+D:\C#\C# projects\1281818\Project_1281818\obj\Debug\Project_1281818.pdb

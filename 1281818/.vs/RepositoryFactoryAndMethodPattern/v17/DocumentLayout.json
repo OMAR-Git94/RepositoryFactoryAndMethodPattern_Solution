@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{247E1901-E255-4848-8552-423D826F3111}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\repositoryfactoryandmethodpattern\\models\\manufacturingcompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247E1901-E255-4848-8552-423D826F3111}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|\\\\192.168.199.118\\shared\\projects\\md.omar-1281818\\repositoryfactoryandmethodpattern\\repositoryfactoryandmethodpattern\\tests\\ditest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247E1901-E255-4848-8552-423D826F3111}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\repositoryfactoryandmethodpattern\\tests\\ditest3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247E1901-E255-4848-8552-423D826F3111}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\repositoryfactoryandmethodpattern\\tests\\ditest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247E1901-E255-4848-8552-423D826F3111}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\repositoryfactoryandmethodpattern\\repositories\\igenecricrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247E1901-E255-4848-8552-423D826F3111}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\repositoryfactoryandmethodpattern\\repositories\\genericrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247E1901-E255-4848-8552-423D826F3111}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\repositoryfactoryandmethodpattern\\models\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247E1901-E255-4848-8552-423D826F3111}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\repositoryfactoryandmethodpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247E1901-E255-4848-8552-423D826F3111}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\repositoryfactoryandmethodpattern\\factories\\repositoryfactoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247E1901-E255-4848-8552-423D826F3111}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\repositoryfactoryandmethodpattern\\factories\\irepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247E1901-E255-4848-8552-423D826F3111}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\repositoryfactoryandmethodpattern\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247E1901-E255-4848-8552-423D826F3111}|RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern.csproj|\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\repositoryfactoryandmethodpattern\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DITest3.cs",
+              "DocumentMoniker": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Tests\\DITest3.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Tests\\DITest3.cs",
+              "ToolTip": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Tests\\DITest3.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Tests\\DITest3.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:48:48.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Program.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Program.cs",
+              "ToolTip": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Program.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:48:48.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositoryFactoryImpl.cs",
+              "DocumentMoniker": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Factories\\RepositoryFactoryImpl.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Factories\\RepositoryFactoryImpl.cs",
+              "ToolTip": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Factories\\RepositoryFactoryImpl.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Factories\\RepositoryFactoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:48:48.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenecricRepostory.cs",
+              "DocumentMoniker": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Repositories\\IGenecricRepostory.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Repositories\\IGenecricRepostory.cs",
+              "ToolTip": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Repositories\\IGenecricRepostory.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Repositories\\IGenecricRepostory.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:48:48.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepositoryImpl.cs",
+              "DocumentMoniker": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Repositories\\GenericRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Repositories\\GenericRepositoryImpl.cs",
+              "ToolTip": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Repositories\\GenericRepositoryImpl.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Repositories\\GenericRepositoryImpl.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:48:48.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Models\\Bike.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Models\\Bike.cs",
+              "ToolTip": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Models\\Bike.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Models\\Bike.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:48:48.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DITest1.cs",
+              "DocumentMoniker": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Tests\\DITest1.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Tests\\DITest1.cs",
+              "ToolTip": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Tests\\DITest1.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Tests\\DITest1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:48:48.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DITest2.cs",
+              "DocumentMoniker": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Tests\\DITest2.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Tests\\DITest2.cs",
+              "ToolTip": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Tests\\DITest2.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Tests\\DITest2.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:48:48.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepositoryFactory.cs",
+              "DocumentMoniker": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Factories\\IRepositoryFactory.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Factories\\IRepositoryFactory.cs",
+              "ToolTip": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Factories\\IRepositoryFactory.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Factories\\IRepositoryFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:48:48.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManuFacturingCompany.cs",
+              "DocumentMoniker": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Models\\ManuFacturingCompany.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Models\\ManuFacturingCompany.cs",
+              "ToolTip": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Models\\ManuFacturingCompany.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Models\\ManuFacturingCompany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:48:48.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Models\\EntityBase.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Models\\EntityBase.cs",
+              "ToolTip": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Models\\EntityBase.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Models\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:48:48.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Models\\Bus.cs",
+              "RelativeDocumentMoniker": "RepositoryFactoryAndMethodPattern\\Models\\Bus.cs",
+              "ToolTip": "\\\\192.168.199.118\\Shared\\Projects\\md.omar-1281818\\RepositoryFactoryAndMethodPattern\\RepositoryFactoryAndMethodPattern\\Models\\Bus.cs",
+              "RelativeToolTip": "RepositoryFactoryAndMethodPattern\\Models\\Bus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:48:48.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
